@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "Sanju",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+      "email": "anju@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "SANJEEV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+      "email": "anju@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "SANJEEV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+      "email": "sanju@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Pihu",
+      "image": "https://images.unsplash.com/photo-1600804340584-c7db2eacf0bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVwcHl8ZW58MHx8MHx8&w=1000&q=80",
+      "email": "pihu@gmail.com",
+      "password": "pihu",
+      "id": 4
+    },
+    {
+      "name": "",
+      "image": "",
+      "email": "anju@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "Rana",
+      "image": "https://images.unsplash.com/photo-1600804340584-c7db2eacf0bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVwcHl8ZW58MHx8MHx8&w=1000&q=80",
+      "email": "rana@gmail.com",
+      "password": "rana",
+      "id": 6
+    }
+  ],
+  "blogs": [
+    {
+      "username": "sanjeev singh",
+      "title": "Atomic",
+      "content": "always have a positive attitude guys.",
+      "category": "Business",
+      "date": "2022-02-11",
+      "likes": 1,
+      "comments": [],
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
